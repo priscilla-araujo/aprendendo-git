@@ -1,2 +1,3 @@
 Linha para teste do GITHUB
 Criando uma branch
+Adicionando uma nova linha para merge
